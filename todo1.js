@@ -1,0 +1,1 @@
+console.log('hello world từ file todo1.js');
